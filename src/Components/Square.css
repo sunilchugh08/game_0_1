@@ -1,0 +1,9 @@
+.Square{
+    width: 50px;
+    Height: 50px;
+    border: 1px solid black;
+    float : left;
+}
+.board-row{
+    clear: both;
+}
